@@ -1,1 +1,6 @@
-test
+site_name: My Component Docs
+nav:
+  - Home: index.md
+  - Overview: overview.md
+plugins:
+  - techdocs-core
