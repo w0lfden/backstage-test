@@ -4,5 +4,3 @@ nav:
   - Overview: overview.md
 plugins:
   - techdocs-core
-docs_dir: docs
-
